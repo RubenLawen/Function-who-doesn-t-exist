@@ -6,7 +6,8 @@
 #### Function:
 1) Letter count -> reference how many different letters there are
 2) Letter count++ -> returns the presence of the letters in their numbers
-2) isPalin -> returns if the word is a Palindrome or not
+3) isPalin -> returns if the word is a Palindrome or not
+4) middlearr -> returns the middle or an array, if the arr is pair the function return one before "the middle"
 
 ### Language
 
