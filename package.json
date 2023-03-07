@@ -1,0 +1,29 @@
+{
+  "name": "functions-that-doesnt-exist",
+  "version": "1.0.0",
+  "description": "Useful functions that doesn't exist in JavaScript",
+  "main": "src/main.ts",
+  "scripts": {
+    "start": "node .",
+    "test": "tsc && node build/main.js",
+    "build": "tsc",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/RubenLawen/Function-who-doesn-t-exist"
+  },
+  "keywords": [
+    "functions",
+    "utils",
+    "js"
+  ],
+  "author": "Lawen",
+  "license": "MIT",
+  "devDependencies": {
+    "tsc-watch": "^5.0.3",
+    "typescript": "^4.8.4",
+    "ts-node": "^10.9.1",
+    "nodemon": "^2.0.20"
+  }
+}
