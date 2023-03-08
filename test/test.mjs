@@ -7,3 +7,7 @@ console.log([1, 2, 3, 4, 5, 6].middle()); // 4
 console.log("aaaa".letterCount()); // 1
 console.log("hello".letterCount()); // 2
 console.log("hello".betterLetterCount()); // { h: 1, e: 1, l: 2, o: 1 }
+console.log(new Number().random());
+console.log([1,2,3,4,5].shuffle());
+console.log([1,2,3,4,5].random());
+console.log("Hello World".remove("l")); // Heo Word
